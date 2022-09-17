@@ -1,0 +1,3 @@
+SOSC000418HNLLLRA7,hola,Cruz Arturo,Solis,Saldivar,
+chuy,1234,Chuy,So,Sa,
+cruz,2413,ASDS,QWE,ASDASD,

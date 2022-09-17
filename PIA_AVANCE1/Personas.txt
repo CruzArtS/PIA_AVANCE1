@@ -1,0 +1,4 @@
+a,a,a,a,14/9/2022,a,a,a,a,a,casad@,a,femenino,a,a,
+a2,a2,a2,a2,14/9/2022,a2,a2,a2,a2,a2,concubinat@,a2,masculino,a2,a2,
+e,e,e,e,14/9/2022,e,e,e,e,e,concubinat@,e,masculino,e,e,
+asd,dsad,asd,asdasdsad2,16/9/2022,asdsda,sdsd,asdsa,sadasd,asdasd,separad@,sdasd,masculino,sdsad,sdasdas,
